@@ -1,4 +1,4 @@
-# Herminos's blog
+# Welcome to Herminos's Personal Website
 <br>
 欢迎来到Herminos的个人网站！！<br>
 目前该网站处于持续更新状态<br>
@@ -8,3 +8,7 @@
 爱好计算机编程和生物等自然科学<br>
 我是忠实的类Unix系统使用者，主要使用macOS作为日常使用系统，有时候心血来潮会切换到Ubuntu或者CentOS玩一玩<br>
 有的时候中二病犯了会用一用Kali Linux<br>
+Herminos欢迎并且希望任何人和他做朋友<br>
+Herminos的邮箱是 herminos@163.com
+## Herminos的小博客
+呃呃呃目前他还没写什么东西呐～
