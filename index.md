@@ -4,7 +4,7 @@
 目前该网站处于持续更新状态<br>
 
 ## Herminos的个人介绍
-我是一个普通的高中生，目前就读于[哈尔滨市第三中学校](https://baike.baidu.com/link?url=81t4eRKNDhXJHIcpFgLDTYG8IBqkUZX_tY-0Z7kJXb6N7oFTMlA6SbCl42GF-YsV46PJl9hbSIMe0C9696PYxscqdzD6vro58K0TD9q34EJDKaTZlCRLL2RucUkWetq99mMqXXOl4w6be7O4UpZVVHYeYVgyBvPeEPA8XXIsNIl3WJ-OUYSeK4YLgd_TgCFV)
-爱好计算机编程和生物等自然科学
-我是忠实的类Unix系统使用者，主要使用macOS作为日常使用系统，有时候心血来潮会切换到Ubuntu或者CentOS玩一玩
-有的时候中二病犯了会用一用Kali Linux
+我是一个普通的高中生，目前就读于[哈尔滨市第三中学校](https://baike.baidu.com/link?url=81t4eRKNDhXJHIcpFgLDTYG8IBqkUZX_tY-0Z7kJXb6N7oFTMlA6SbCl42GF-YsV46PJl9hbSIMe0C9696PYxscqdzD6vro58K0TD9q34EJDKaTZlCRLL2RucUkWetq99mMqXXOl4w6be7O4UpZVVHYeYVgyBvPeEPA8XXIsNIl3WJ-OUYSeK4YLgd_TgCFV)<br>
+爱好计算机编程和生物等自然科学<br>
+我是忠实的类Unix系统使用者，主要使用macOS作为日常使用系统，有时候心血来潮会切换到Ubuntu或者CentOS玩一玩<br>
+有的时候中二病犯了会用一用Kali Linux<br>
