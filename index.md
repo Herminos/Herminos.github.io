@@ -12,3 +12,7 @@ Herminos欢迎并且希望任何人和他做朋友<br>
 Herminos的邮箱是 herminos@163.com
 ## Herminos的小博客
 呃呃呃目前他还没写什么东西呐～
+<br>
+<br>
+<a href="https://github.com/Herminos"><img src="dinosour.png"></a><br>
+看看这只小恐龙夺可爱，拍一拍它吧~
