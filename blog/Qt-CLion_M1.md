@@ -1,3 +1,6 @@
+---
+permalink: /Qt-CLion_M1.html
+---
 #使用CLion在M1芯片的mac上配置Qt开发环境（cmake版）
 最近想研究一下C++的Qt，好让我的程序不局限于黑框框<br>
 但是Qt Creator的界面实在太丑了。偶然间发现CLion可以写Qt项目，那不得搞一搞~~其实我原来想配置VS Code的了但是一直没成功~~<br>
