@@ -1,6 +1,8 @@
----
-permalink: /Qt-CLion_M1.html
----
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+
 #使用CLion在M1芯片的mac上配置Qt开发环境（cmake版）
 最近想研究一下C++的Qt，好让我的程序不局限于黑框框<br>
 但是Qt Creator的界面实在太丑了。偶然间发现CLion可以写Qt项目，那不得搞一搞~~其实我原来想配置VS Code的了但是一直没成功~~<br>
@@ -27,7 +29,7 @@ permalink: /Qt-CLion_M1.html
 然后检查一下
 输入
 ```which cmake```
-如果能出来路径就说吗安装成功
+如果能出来路径就说明安装成功
 ##第二步：在CLion中新建Qt项目
 注意本文讲述的是cmake来编译，如果在Qt Creator中创建新项目则默认使用的是qmake
 如图
