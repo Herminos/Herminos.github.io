@@ -150,6 +150,7 @@ body{
     border: 5px solid aquamarine;
     transition: all 0.5s ease;
     margin: auto;
+    margin-bottom: 40px;
 }
 
 .content .contact .vol:hover{
@@ -169,6 +170,7 @@ body{
     float:right;
     opacity: 1;
     z-index:20;
+    text-align: center;
 }
 
 .content .contact .vol:hover .svgcont{
@@ -185,26 +187,27 @@ body{
 }
 
 .content .contact .vol .svgcont a{
-    float:right;
     font-size: 30px;
     font-weight: 700;
-    color: #00f2ff;
+    color: black;
     text-align: center;
     text-shadow: 10px 10px 50px rgba();
     margin-top: 3px;
     margin-right: 10px;
     opacity: 0;
     transition: all 0.5s ease;
-    text-align: center;
     overflow:hidden;
     text-decoration: none;
+    align-self: center;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration:underline rgba(0,0,0,0);
 }
 
 .content .contact .vol:hover .svgcont a{
-    float:right;
     font-size: 30px;
     font-weight: 700;
-    color: #00f2ff;
+    color: black;
     text-align: center;
     text-shadow: 10px 10px 50px rgba();
     margin-top: 3px;
@@ -212,6 +215,12 @@ body{
     opacity: 1;
     transition: all 0.5s ease;
     text-align: center;
+}
+
+.content .contact .vol .svgcont a:hover{
+    text-decoration: underline rgba(0,0,0,1);
+    color: black;
+    transition: all 0.5s ease;
 }
 
 
