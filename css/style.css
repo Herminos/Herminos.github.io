@@ -260,3 +260,15 @@ body{
     color:white;
 }
 
+.footer a{
+    color:white;
+    text-decoration: underline rgba(255,255,255,0);
+    transition: all 0.5s ease;
+}
+
+.footer a:hover{
+    color:white;
+    text-decoration: underline rgba(255, 255, 255, 1);
+    transition: all 0.5s ease;
+}
+
