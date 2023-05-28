@@ -124,7 +124,7 @@ body{
 
 .content .contact{
     background-color: rgba(255,255,255,0.1);
-    height: 500px;
+    height: 520px;
     width: 49%;
     border-radius: 10px;
     margin: auto;
@@ -243,5 +243,20 @@ body{
     justify-content: center; /* 新增 */
 }
 
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 10px;
+    margin: auto;
+    margin-top:30px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    text-align: center;
+    float:left;
+}
 
+.footer p{
+    color:white;
+}
 
